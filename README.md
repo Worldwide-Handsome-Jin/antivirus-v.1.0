@@ -28,7 +28,7 @@ cd python-antivirus```
 
 Установите зависимости:
 
-```pip install -r requirements.txt```
+```pip install -r requirements.txt
 
 ## Зависимости
 
