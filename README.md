@@ -22,7 +22,7 @@
 
 Клонируйте репозиторий:
 
-```git clone https://github.com/yourname/python-antivirus
+git clone https://github.com/yourname/python-antivirus```
 
 cd python-antivirus```
 
