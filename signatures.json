@@ -1,0 +1,9 @@
+{
+  "strings": {
+    "EICAR-Test": "X5O!P%@AP[4\\PZX54(P^)7CC)7}$",
+    "PowerShell-Encoded": "powershell -enc"
+  },
+  "hashes": {
+    "eicar_hash": "275a021bbfb6485a9d96f0e7f3b9c3b6e5cfae6a6b5fbb0c3e1d3f7e8a1c9d5"
+  }
+}
