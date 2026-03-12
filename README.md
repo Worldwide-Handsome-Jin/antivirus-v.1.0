@@ -56,7 +56,7 @@
 
 &#x20;  Yes v
 
-&#x20; Quarantine```
+&#x20; Quarantine
 
 ## Установка
 
