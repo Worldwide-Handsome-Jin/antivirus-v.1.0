@@ -22,13 +22,13 @@
 
 Клонируйте репозиторий:
 
-git clone https://github.com/yourname/python-antivirus```
+```git clone https://github.com/yourname/python-antivirus```
 
-cd python-antivirus```
+```cd python-antivirus```
 
 Установите зависимости:
 
-```pip install -r requirements.txt
+```pip install -r requirements.txt```
 
 ## Зависимости
 
@@ -48,9 +48,9 @@ cd python-antivirus```
 
 Пример вывода:
 
-```\[!] Threat detected: Suspicious\_PowerShell
+```\[!] Threat detected: Suspicious\_PowerShell```
 
-File: C:\\Downloads\\malware.exe```
+```File: C:\\Downloads\\malware.exe```
 
 
 
